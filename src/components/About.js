@@ -1,5 +1,4 @@
 import React from "react";
-import {FaCloudDownload} from "react-icons//fa";
 
 import profilePic from "../assets/images/profilepic.jpg";
 

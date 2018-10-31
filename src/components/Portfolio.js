@@ -1,5 +1,5 @@
 import React from "react";
-import { FaPlus, FaTag } from "react-icons//fa";
+import { FaPlus } from "react-icons//fa";
 
 import Coffee from "../assets/images/portfolio/coffee.jpg";
 import Console from "../assets/images/portfolio/console.jpg";
