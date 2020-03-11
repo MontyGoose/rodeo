@@ -2,17 +2,10 @@
 templateKey: about-page
 title: About me
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+I’m a technology leader who constantly strives to learn, flex, grow and is continually looking to understand more of this amazing world and people. I’m super excited about growing diversity in technology, and specifically in being a male ally for gender diversity.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+I am passionate about technology and have been actively building software for most of my life – I cut my first code at the age of 8. I’ve typically worked in and around software houses and large corporations – but I still do publish opensource code under the name montygoose and SquareEleven.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+Right now, I lead Engineering and Technical Delivery for a Financial Investment Company (Newton) – which encompasses looking at culture change, embracing and utilising new technology advances and encouraging agility and value through out the technology delivery pipeline.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Alongside tech, I’m a father and husband, an uber keen cyclist, poor but trying photographer and occasion traveller
