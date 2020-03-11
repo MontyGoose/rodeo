@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Nerd. Cyclist. Technologist.
 image: /img/home.jpg
 heading: Nerd. Cyclist. Technologist.
 subheading: Learning by doing
