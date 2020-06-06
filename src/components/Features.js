@@ -20,9 +20,11 @@ const FeatureGrid = ({ gridItems }) => (
             </div>
           </div>
           <p>{item.text}</p>
-          <Link className="btn" to={item.link.url}>
-            {item.link.name}
-          </Link>
+          {item.link && //only show link if one exists
+            <Link className="btn" to={item.link.url}>
+              {item.link.name}
+            </Link>
+          }
         </section>
       </div>
     ))}
@@ -34,6 +36,7 @@ FeatureGrid.propTypes = {
     PropTypes.shape({
       image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
       text: PropTypes.string,
+      link: PropTypes.object
     })
   ),
 }
