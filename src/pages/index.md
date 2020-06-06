@@ -24,7 +24,7 @@ intro:
         and engineering perspective.
     - image: /img/cycling_blog_index.jpg
       link:
-        name: cycling
+        name: Cycling Blog
         url: /cycling
       text: >-
         I'm an enthusiastic cyclist and have raced at amateur level in most
