@@ -1,6 +1,8 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
+import { Link } from 'gatsby'
+
 
 const FeatureGrid = ({ gridItems }) => (
   <div className="columns is-multiline">
@@ -18,6 +20,9 @@ const FeatureGrid = ({ gridItems }) => (
             </div>
           </div>
           <p>{item.text}</p>
+          <Link className="btn" to={item.link.url}>
+            {item.link.name}
+          </Link>
         </section>
       </div>
     ))}
