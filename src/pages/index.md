@@ -14,12 +14,18 @@ description: Some more details on what the expect in the blogs.
 intro:
   blurbs:
     - image: /img/home.jpg
+      link:
+        name: Tech Blog
+        url: /tech
       text: >-
         My tech blog will cover a wide range of technology areas - my background
         is working within a corporate environment driving and leading digital
         disruption and transformation .. expect lots on this from a leadership
         and engineering perspective.
     - image: /img/cycling_blog_index.jpg
+      link:
+        name: cycling
+        url: /cycling
       text: >-
         I'm an enthusiastic cyclist and have raced at amateur level in most
         forms.  My first love is road, but lots of CX & track too.  Blog will be
