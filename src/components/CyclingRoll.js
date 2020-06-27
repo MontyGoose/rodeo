@@ -43,7 +43,7 @@ class CyclingRoll extends React.Component {
                   </p>
                 </header>
                 <p>
-                  {post.excerpt}
+                  {post.frontmatter.description}
                   <br />
                   <br />
                   <Link className="button" to={post.fields.slug}>
@@ -82,6 +82,7 @@ export default () => (
                 slug
               }
               frontmatter {
+                description
                 title
                 templateKey
                 date(formatString: "MMMM DD, YYYY")
