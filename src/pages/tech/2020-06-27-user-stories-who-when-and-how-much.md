@@ -9,11 +9,13 @@ description: |-
   How much time should be spent, and by whom?
   How much information is needed in a user story?
 featuredpost: false
-featuredimage: /img/blog_index.jpg
+featuredimage: /img/patrick-perkins-ETRPjvb0KM0-unsplash.jpg
 tags:
   - agile
   - user stories
 ---
+![](/img/patrick-perkins-ETRPjvb0KM0-unsplash.jpg)
+
 What does the Agile Manifesto state ... Nothing.  User stories are not part of Agile ...  (smile) ; however they are a well known and trusted mechanism for capturing requirements .. so let's go with that!
 
 Let's first define what we mean by a user story:
@@ -25,8 +27,8 @@ A user story should satisfy an agreed "definition of ready"; which should contai
 And also what does the Agile Manifesto does say about working as a team;
 
 > Business people and developers must work together daily throughout the project. -The Agile Manifesto
-
->The best architectures, requirements, and designs emerge from self-organizing teams - The Agile Manifesto
+>
+> The best architectures, requirements, and designs emerge from self-organizing teams - The Agile Manifesto
 
 Let's bear that in mind these definitions as we progress.
 
@@ -56,9 +58,8 @@ Let's take a look at what the Scrum Guide says on this ....
 
 From the ScrumGuide: 
 
->Product Backlog refinement is the act of adding detail, estimates, and order to items in the Product Backlog. This is an ongoing process in which the Product Owner and the Development Team collaborate on the details of Product Backlog items. 
-During Product Backlog refinement, items are reviewed and revised. The Scrum Team decides how and when refinement is done. Refinement usually consumes no more than 10% of the capacity of the Development Team. 
-However, Product Backlog items can be updated at any time by the Product Owner or at the Product Owner’s discretion.
+> Product Backlog refinement is the act of adding detail, estimates, and order to items in the Product Backlog. This is an ongoing process in which the Product Owner and the Development Team collaborate on the details of Product Backlog items.  During Product Backlog refinement, items are reviewed and revised. The Scrum Team decides how and when refinement is done. Refinement usually consumes no more than 10% of the capacity of the Development Team. 
+> However, Product Backlog items can be updated at any time by the Product Owner or at the Product Owner’s discretion.
 
 ### 4. How much time should be spent, and by whom?
 
