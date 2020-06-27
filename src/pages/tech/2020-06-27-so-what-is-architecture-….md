@@ -6,11 +6,13 @@ description: >-
   "If all you're interested in is cranking out code to hit release 1 then you
   probably don't need to think about architecture"
 featuredpost: false
-featuredimage: /img/home.jpg
+featuredimage: /img/alex-ip-7awzMb3LGMw-unsplash.jpg
 tags:
   - archirectire
   - non-functionals
 ---
+![](/img/alex-ip-7awzMb3LGMw-unsplash.jpg)
+
 Good place to start with a statement from Chris Richardson - <http://www.chrisrichardson.net/>
 
 Sounds fair enough to me; head down, hit the deadline, code does what it says - tick.  Shortest bloh ever ....
@@ -23,8 +25,7 @@ Of course, **we've** never worked on or written code like this :-) but if we thi
 
 When we discuss and define the requirements of what we're looking to build; we can always split them into 2 distinct areas: Functional  + Non-Functional
 
-We know all this of course - functional requirements are our bread and butter - it's the how, it's behaviour, it's technical, it's code - like moths to flames we're drawn to these ….
-The non-functional - well, hmm, they're a bit more fluffy, intangible, non-specific, hard to codify?  Right?
+We know all this of course - functional requirements are our bread and butter - it's the how, it's behaviour, it's technical, it's code - like moths to flames we're drawn to these …. The non-functional - well, hmm, they're a bit more fluffy, intangible, non-specific, hard to codify?  Right?
 Perhaps but if functional requirements are about domain knowledge and design, then non-function requirements are all about architecture.
 
 Look at the list on wikipedia - <https://en.wikipedia.org/wiki/Non-functional_requirement> - non-functional requirements are all the "-ilities" - it's what makes our code/software great!
