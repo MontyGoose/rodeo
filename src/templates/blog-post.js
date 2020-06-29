@@ -13,6 +13,7 @@ export const BlogPostTemplate = ({
   tags,
   title,
   helmet,
+  featuredImage
 }) => {
   const PostContent = contentComponent || Content
 
@@ -20,6 +21,24 @@ export const BlogPostTemplate = ({
     <section className="section">
       {helmet || ''}
       <div className="container content">
+      <div
+          className="full-width-image-container margin-top-0"
+          style={{
+            backgroundImage: `url(${featuredImage})`,
+          }}
+        >
+          <h1
+            className="has-text-weight-bold is-size-1"
+            style={{
+              boxShadow: '0.5rem 0 0 #f40, -0.5rem 0 0 #f40',
+              backgroundColor: '#f40',
+              color: 'white',
+              padding: '1rem',
+            }}
+          >
+            {title}
+          </h1>
+        </div>
         <div className="columns">
           <div className="column is-10 is-offset-1">
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
@@ -52,10 +71,12 @@ BlogPostTemplate.propTypes = {
   description: PropTypes.string,
   title: PropTypes.string,
   helmet: PropTypes.object,
+  featureImage: PropTypes.string
 }
 
 const BlogPost = ({ data }) => {
   const { markdownRemark: post } = data
+  console.log(data)
   return (
     <Layout>
       <BlogPostTemplate
@@ -73,6 +94,7 @@ const BlogPost = ({ data }) => {
         }
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
+        featuredImage= {post.frontmatter.featuredimage.childImageSharp.fluid.src}
       />
     </Layout>
   )
@@ -96,6 +118,14 @@ export const pageQuery = graphql`
         title
         description
         tags
+        featuredimage {
+          childImageSharp {
+            fluid(maxWidth: 1200, quality: 100) {
+              base64
+              src
+            }
+          }
+        }
       }
     }
   }
