@@ -39,7 +39,7 @@ So 11 1/2 hours ..... but then I looked at two parts
 
 ### The numbers
 The times above are based on 'an average of what they do' and not on 'what they should do' - these numbers are low for how Scrum Guides define the
-timeboxed activities, and low for how Newton sees the time too....
+timeboxed activities, and low for how I see the time too....
 I'd suggest something more like
 * Product backlog refinement: 2.00 hours/week
 * Sprint planning: 1 hours/week
